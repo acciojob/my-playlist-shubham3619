@@ -2,7 +2,7 @@
 body {
 	background-color:#cccccc;
 }
-h1 {
+h2 {
 	text-align: center;
 }
 .player_one {
@@ -10,6 +10,9 @@ h1 {
 	border-radius:2px;
 	background-color:white;
 	padding:10px;
+}
+.player_one ul li {
+	list-style: none;
 }
 .player_one a {
 	text-decoration:none;
