@@ -2,7 +2,7 @@
 body {
 	background-color:#cccccc;
 }
-h2 {
+h1 {
 	text-align: center;
 }
 .player_one {
@@ -18,7 +18,7 @@ h2 {
 	text-decoration:none;
 	color:black;
 }
-h4 {
+h2 {
 	text-align: center;
 }
 .player_two {
